@@ -2,7 +2,7 @@
 
 - 👋 Hi, My name is Vitor Gabriel
 - 📫 If you want contact me, send a email in [email](vitorgsg794@gmail.com)
-- 👀 I’m interested in learn a lot of things in progamation, and become some day a programmer full stack
+- 👀 I’m interested in learn a lot of things in programming, and become some day a programmer full stack
 - 🌱 I’m currently learning the language of Java Script and things about Git Hub
 
 <!---
